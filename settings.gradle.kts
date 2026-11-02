@@ -22,6 +22,6 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "Magatzem"
+rootProject.name = "Magatzem_old"
 include(":app")
  
